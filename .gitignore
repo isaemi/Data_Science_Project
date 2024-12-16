@@ -1,0 +1,26 @@
+.DS_Store
+.Trash/
+.bash_history
+.bash_profile
+.gitconfig
+.vscode/
+*.pyc
+__pycache__/
+# macOS system files
+.DS_Store
+.localized
+.Trash/
+
+# Python files
+*.pyc
+__pycache__/
+
+# Node.js
+node_modules/
+
+# VSCode settings
+.vscode/
+
+# Others
+.env
+.idea/
